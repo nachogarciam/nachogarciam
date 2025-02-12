@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Ignacio 👋
 
-<!--
-**nachogarciam/nachogarciam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate **Sr. MLOps Engineer at Syneos Health** with a degree in Software Engineering. I've been on a journey of continuous learning and professional development, and I've had the opportunity to work on some impactful projects. 
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **MLOps**
+- **Full-stack development**
+- **Kubeflow**
+- **Kubernetes**
+- **Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Interests
+- **Technology**
+- **Continuous learning**
+- **Professional development**
+
+### 📫 How to reach me
+- **LinkedIn**: https://www.linkedin.com/in/ignacio-enrique/
